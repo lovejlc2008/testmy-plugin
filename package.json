@@ -1,6 +1,6 @@
 {
   "name": "testmy-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "use in test",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/testmy-plugin.git"
+    "url": "https://github.com/lovejlc2008/testmy-plugin.git"
   },
   "keywords": [
     "testmy-plugin"
